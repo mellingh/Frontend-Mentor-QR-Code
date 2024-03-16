@@ -1,10 +1,12 @@
-.attribution {
+/*
+ .attribution {
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+*/
 
 body {
   background-color: hsl(212, 45%, 89%);
@@ -15,7 +17,7 @@ body {
   height: 500px;
   margin: 150px auto;
   background-color: hsl(0, 0%, 100%);
-  padding: 20px;
+  padding: 20px 20px 0px 20px;
   border-radius: 20px;
 }
 
@@ -36,7 +38,7 @@ h1 {
 }
 
 p {
-  font-size: 1.05rem;
-  padding: 0px 15px 15px 15px;
+  font-size: 1rem;
+  padding: 0px 15px 0px 15px;
   color: hsl(220, 15%, 55%);
 }
